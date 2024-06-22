@@ -1,0 +1,42 @@
+*{
+    background-color: bisque;
+}
+#center{
+    text-align: center;
+    text-decoration: line-through;
+}
+#project{
+    text-align: center;
+    text-decoration: underline;
+   
+}
+#dam{
+    text-align: center;
+    text-decoration: underline;
+}
+#road{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#daM{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#mark{
+    text-align: center;
+    text-decoration: underline;
+}
+#img{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+#list{
+    font-style: oblique;
+}
+#date{
+    font-style: unset;
+    text-align: center;
+}
